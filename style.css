@@ -1,0 +1,13 @@
+.btn-com{
+    color: rgb(250, 248, 248);
+    font-size: 25px;
+    font-weight: 600;
+    background-color: rgba(74, 99, 97, 0.973);
+    border: 2px solid rgb(189, 186, 186);
+    border-radius: 10px;
+  
+}
+.div-cls {
+    border: 5px solid rgb(27, 18, 18);
+    border-radius: 20px;
+}
